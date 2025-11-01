@@ -11,7 +11,7 @@ public class Exe1 {
 		entrada_nome.close();
 		System.out.println("Prazer " + nome + "!");
 		System.out.println("Exemplo de operadores:");
-		byte numero1 = 10, numero2 = 20;
+		int numero1 = 10, numero2 = 20;
 		System.out.println(numero1 + numero2);
     }
 }
